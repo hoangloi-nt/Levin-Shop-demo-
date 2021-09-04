@@ -1464,19 +1464,12 @@
     padding: 4px 0;
 }
 
-.footer__policy-list {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .footer__policy-item {
-    text-decoration: none;
     text-transform: uppercase;
-    padding:0 50px;
-    border-right: 2px solid #e0dfdf;
+    padding:0 20px;
     margin: 20px 0;
+    text-align: center;
+    border-right: 1px solid #737373;
 }
 
 .footer__policy-item-link {

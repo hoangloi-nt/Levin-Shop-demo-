@@ -48,6 +48,10 @@
     .footer__download-app-link {
         display: block;
     }
+
+    .footer__policy-item {
+        border: none;
+    }
 }
 
 /* Tablet */
@@ -74,6 +78,7 @@
         display: block;
         padding: 6px 8px;
     }
+
 }
 
 /* Mobile */
@@ -172,5 +177,13 @@
     .footer__download-app-link {
         display: block;
         padding: 6px 8px;
+    }
+
+    .footer__policy-item {
+        padding: 0 8px;
+    }
+
+    .footer__text {
+        padding: 0 8px;
     }
 }
